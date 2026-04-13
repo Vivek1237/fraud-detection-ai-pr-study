@@ -81,10 +81,17 @@ fraud-detection-ai-pr-study/
 1. Clone the repository:
 ```bash
 git clone https://github.com/your-username/fraud-detection-ai-pr-study.git
-
+```
+2. Navigate to the project folder:
+```
 cd fraud-detection-ai-pr-study
-
+```
+3. Install dependencies:
+```
 pip install -r requirements.txt
-
+```
+4. Open the notebook:
+```
 jupyter notebook
 ```
+5. Run all cells to reproduce results
